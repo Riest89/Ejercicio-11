@@ -1,0 +1,4 @@
+// Cambia solo el código debajo de esta línea
+ const myArray = [["Ingresos mes.", " A partir del día ", 25, "octubre ", 2022, "final"], ["Gastos Mensuales",3000]];
+
+console.log(myArray);
